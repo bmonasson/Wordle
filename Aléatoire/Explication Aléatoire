@@ -1,0 +1,2 @@
+L'objectif de cet algorithme est aussi d'essayer de réduire le temps de calcul sans trop sacrifier en performances.
+L'idée est de réduire le champ du recherche du meilleur mot, et donc du temps de calcul, sur un sous dictionnaire tiré aléatoirement.
