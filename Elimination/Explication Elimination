@@ -1,0 +1,4 @@
+Algorithmes plus poussés qui vont essayer de maximiser le nombre de candidats éliminés. 
+L'algorithme E1 utilise une très mauvaise formule et est donc en conséquent assez mauvais.
+L'algorithme E2 fonctionne bien mieux.
+L'algorithme E3 repose sur la théorie de l'information de Shannon et possède les meilleurs résultats.
