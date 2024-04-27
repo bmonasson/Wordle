@@ -1,5 +1,5 @@
 # Wordle
-Ce dossier contient l'ensemble du code que j'ai écrit dans le cadre de mon TIPE 2024.
+Ce dossier contient l'ensemble du code que j'ai écrit en C dans le cadre de mon TIPE 2024.
 Mon projet était de mettre au point différents algorithmes capables de jouer à Wordle (https://www.nytimes.com/games/wordle/index.html) un jeu dont l'objectif 
 est de trouver un mot mystère en six essais ou moins.
 
