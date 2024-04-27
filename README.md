@@ -12,3 +12,7 @@ Il y a 7 algorithmes différents :
 - Aléatoire
 
 J'ai aussi inclus dans ce dossier les dictionnaires sur lesquels j'ai effectué mes tests.
+
+Tous ces algorithmes ont deux méthodes de fonctionnement :
+- Tester l'algorithme sur un mot mystère, choisi aléatoirement ou donné par l'utilisateur : fonction partie()
+- Tester l'algorithme sur l'entièreté des mots mystères du dictionnaire : fonction statistiques()
