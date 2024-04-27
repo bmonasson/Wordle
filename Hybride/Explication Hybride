@@ -1,0 +1,5 @@
+L'algorithme d'élimination est très performant mais aussi beaucoup plus lent que l'algorithme heuristique, 
+surtout pour les premiers coups qui prennent plusieurs minutes. 
+Ainsi j'ai fait une version hybride qui commence par jouer selon la méthode heuristique avant de basculer vers celle d'élimination.
+Cela permet d'avoir un algorithme bien plus rapide sans perdre trop en performances.
+On peut choisir le compromis en fixant le nombre d'essais avant de basculer.
