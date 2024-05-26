@@ -3,7 +3,7 @@ Ce dossier contient l'ensemble du code que j'ai écrit en C dans le cadre de mon
 Mon projet était de mettre au point différents algorithmes capables de jouer à Wordle (https://www.nytimes.com/games/wordle/index.html) un jeu dont l'objectif 
 est de trouver un mot mystère en six essais ou moins.
 
-Une explication détaillée de ce projet contenant aussi les résultats que j'ai obtenus, mon rapport pour le concours des ENS, sera publiée à la fin des oraux.
+/!\ Une explication détaillée de ce projet contenant aussi les résultats que j'ai obtenus, mon rapport pour le concours des ENS, sera publiée très prochainement (dès que la date limite de téléversement sera dépassée).
 
 Il y a 7 algorithmes différents :
 - Heuristique 1, 2
